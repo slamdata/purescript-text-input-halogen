@@ -1,6 +1,6 @@
 module TextInput.Halogen.Component
   ( input
-  , Query(..)
+  , Query(GetValue, SetValue)
   , Message(..)
   , Config
   , Input
